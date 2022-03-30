@@ -12,8 +12,10 @@ https://www.youtube.com/watch?v=AbJ9GfRHOW4&feature=youtu.be
 ## プレビュー
 
 https://user-images.githubusercontent.com/42370001/160777091-fb8ef4f4-740a-4f4b-8f45-015d5a26e79a.MP4
-
-
+https://user-images.githubusercontent.com/42370001/160778321-a3304b9f-966c-446e-b3e5-11bdf06a3066.mp4
+https://user-images.githubusercontent.com/42370001/160778358-ccb17f16-35a0-4c32-8ca5-a0c2dc8aabdd.mp4
+https://user-images.githubusercontent.com/42370001/160778395-865c1cd9-0c4f-4d9d-8cf1-4448a8fb9bee.mp4
+https://user-images.githubusercontent.com/42370001/160778406-0843c8db-cc8e-4922-b9db-6f44f11fb55e.mp4
 
 <img width="766" alt="original" src="https://user-images.githubusercontent.com/42370001/160769881-e1e8d794-bfa1-4e4a-a4ad-350843978784.png">
 <img width="953" alt="スクリーンショット 2022-03-30 16 12 59" src="https://user-images.githubusercontent.com/42370001/160773251-53115176-ddfa-42c0-9439-ab0588d7730b.png">
