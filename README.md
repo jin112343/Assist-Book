@@ -10,6 +10,11 @@
 ## YouTube
 https://www.youtube.com/watch?v=AbJ9GfRHOW4&feature=youtu.be
 ## プレビュー
+
+https://user-images.githubusercontent.com/42370001/160777091-fb8ef4f4-740a-4f4b-8f45-015d5a26e79a.MP4
+
+
+
 <img width="766" alt="original" src="https://user-images.githubusercontent.com/42370001/160769881-e1e8d794-bfa1-4e4a-a4ad-350843978784.png">
 <img width="953" alt="スクリーンショット 2022-03-30 16 12 59" src="https://user-images.githubusercontent.com/42370001/160773251-53115176-ddfa-42c0-9439-ab0588d7730b.png">
 <img width="953" alt="スクリーンショット 2022-03-30 16 13 05" src="https://user-images.githubusercontent.com/42370001/160773234-ea2e6fca-0f1d-49c2-8d94-36c648d336a6.png">
