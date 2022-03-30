@@ -1,1 +1,1 @@
-# Assist-Book![0L01019_20190626]
+# Assist-Book
